@@ -1,4 +1,4 @@
-import AddTask from "@/components/Addtask";
+import AddTask from "@/components/AddTask";
 import Header from "@/components/Header";
 import ShowTask from "@/components/ShowTask";
 import Head from "next/head";

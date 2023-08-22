@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import logo from "../public/logo.svg";
+import logo from "../public/logo.png";
 export default function Header({ children, theme, setTheme }) {
   return (
     <header>
